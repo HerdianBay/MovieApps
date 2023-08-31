@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApps2</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="searchbar_hint">Enter The Word</string>
+    <string name="something_wrong">Oops.. something went wrong</string>
+    <string name="fab_content">Add Button</string>
+</resources>
